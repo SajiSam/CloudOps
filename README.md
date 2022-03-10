@@ -42,4 +42,8 @@ In the Design diagram placed Bastition host in public subnets. This instance has
 6. We would like to be able to monitor the health of our squid instances.
 
 CloudWatch can be used for Logging and Monitoring the instances. Install cloudwatch logs agent on the instance and stream the Squid access logs on the instances to CloudWatch Logs group.
+  
+  
+  ![image](https://user-images.githubusercontent.com/14958328/157708111-980647e4-0f67-4e3f-9715-e2e037abe635.png)
+
 
