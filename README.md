@@ -1,5 +1,8 @@
 # CloudOps
 
+![image](https://user-images.githubusercontent.com/14958328/157708221-013c7bd7-4d74-4ef5-8332-26df2dcf2df4.png)
+
+
 Kindly check below inline answers. 
 
 1. We require an outbound Squid Proxy that permits connections too
@@ -43,7 +46,3 @@ In the Design diagram placed Bastition host in public subnets. This instance has
 
 CloudWatch can be used for Logging and Monitoring the instances. Install cloudwatch logs agent on the instance and stream the Squid access logs on the instances to CloudWatch Logs group.
   
-  
-  ![image](https://user-images.githubusercontent.com/14958328/157708111-980647e4-0f67-4e3f-9715-e2e037abe635.png)
-
-
